@@ -1,0 +1,8 @@
+{
+  "name": "getting-up-to-speed-with-automated-testing-on-drupal-8",
+  "version": "1.0.0",
+  "dependencies": {
+    "reveal.js": "~3.3.0",
+    "highlightjs": "~9.0.0"
+  }
+}

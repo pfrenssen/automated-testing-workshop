@@ -1,0 +1,19 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "drupal-mountain-camp-intro.png"
+        }
+    },
+    "about-me.md",
+    "first-let-s-install-drupal.md",
+    [
+        "download-composer.md",
+        "install-composer-globally.md",
+        "check-if-composer-works.md"
+    ],
+    "drupal-project.md",
+    "pfrenssen-drupal-project.md",
+    "pfrenssen-drupal-project.md",
+    "pfrenssen-drupal-project.md"
+]

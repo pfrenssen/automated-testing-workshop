@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Getting up to speed with automated testing on Drupal 8",
+    "packageVersion": "1.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
