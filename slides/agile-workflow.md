@@ -1,3 +1,3 @@
-<h2>Agile workflow</h2>
-          <p><img src="workflow-basic.png"></p>
-        
+## Agile workflow
+
+<img src="workflow-basic.png">

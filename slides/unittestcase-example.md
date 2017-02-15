@@ -1,7 +1,8 @@
-<h3>UnitTestCase</h3>
-          <p>tests/src/Unit/UnitTest.php</p>
-          <pre><code class="hljs">
-    &lt;?php
+### UnitTestCase
+
+tests/src/Unit/UnitTest.php
+
+    <?php
 
     namespace Drupal\Tests\one_two\Unit;
 
@@ -13,5 +14,3 @@
      */
     class UnitTest extends UnitTestCase {
     }
-          </code></pre>
-        

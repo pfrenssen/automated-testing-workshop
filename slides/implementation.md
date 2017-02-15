@@ -1,11 +1,10 @@
-<h2>Implementation</h2>
-          <pre><div class="hljs">
+## Implementation
+
     /**
      * @Then I should see :number news articles
      */
     public function assertNewsArticleCount($number) {
-      $this-&gt;assertSession()-&gt;elementsCount('css', 'div.news-article', $number);
+      $this->assertSession()->elementsCount('css', 'div.news-article', $number);
     }
-          </div></pre>
-          <p>See MinkContext and DrupalContext</p>
-        
+    
+See MinkContext and DrupalContext

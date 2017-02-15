@@ -1,12 +1,10 @@
-<h3>Checking saved data</h3>
-          <pre><code class="hljs">
-  function testNodeCreate() {
-    ...
+### Checking saved data
 
-    $node = $this-&gt;drupalGetNodeByTitle($title);
-    $this-&gt;assertTrue($node);
-    $this-&gt;assertEquals($title, $node-&gt;getTitle());
-    $this-&gt;assertEquals($body, $node-&gt;body-&gt;value);
-  }
-          </code></pre>
-        
+    function testNodeCreate() {
+      ...
+  
+      $node = $this->drupalGetNodeByTitle($title);
+      $this->assertTrue($node);
+      $this->assertEquals($title, $node->getTitle());
+      $this->assertEquals($body, $node->body->value);
+    }

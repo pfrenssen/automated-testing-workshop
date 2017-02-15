@@ -1,4 +1,4 @@
-<h3>A few more test cases</h3>
+### A few more test cases
           <pre><code class="hljs">
   public function authenticationProvider() {
     return [
@@ -23,4 +23,3 @@
     ];
   }
           </code></pre>
-        

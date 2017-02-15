@@ -1,7 +1,8 @@
-<h3>KernelTestBase</h3>
-          <p>tests/src/Kernel/KernelTest.php</p>
-          <pre><code class="hljs">
-    &lt;?php
+### KernelTestBase
+
+tests/src/Kernel/KernelTest.php
+
+    <?php
     namespace Drupal\Tests\one_two\Kernel;
 
     use Drupal\Component\Utility\Unicode;
@@ -16,5 +17,3 @@
      */
     class KernelTest extends KernelTestBase {
     }
-          </code></pre>
-        

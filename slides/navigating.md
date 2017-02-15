@@ -1,13 +1,11 @@
-<h3>Navigating</h3>
-          <pre><code class="hljs">
-  function testNodeCreate() {
-    ...
+### Navigating
 
-    $this-&gt;clickLink(t('Edit'));
-    $this-&gt;assertSession()-&gt;addressEquals($node-&gt;toUrl('edit-form', ['absolute' =&gt; TRUE]));
-
-    $link_text = 'Edit<span class="visually-hidden">(active tab)</span>';
-    $this-&gt;assertSession()-&gt;responseContains($link_text);
-  }
-          </code></pre>
-        
+    function testNodeCreate() {
+      ...
+  
+      $this->clickLink(t('Edit'));
+      $this->assertSession()->addressEquals($node->toUrl('edit-form', ['absolute' => TRUE]));
+  
+      $link_text = 'Edit<span class="visually-hidden">(active tab)</span>';
+      $this->assertSession()->responseContains($link_text);
+    }

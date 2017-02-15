@@ -1,15 +1,13 @@
-<h3>Submitting forms</h3>
-          <pre><code class="hljs">
-  function testNodeCreate() {
-    $this-&gt;drupalLogin($this-&gt;user);
+### Submitting forms
 
-    $title = $this-&gt;randomString();
-    $body = $this-&gt;randomString(32);
-    $edit = [
-      'Title' =&gt; $title,
-      'Body' =&gt; $body,
-    ];
-    $this-&gt;drupalPostForm('node/add/page', $edit, t('Save'));
-  }
-          </code></pre>
-        
+    function testNodeCreate() {
+      $this->drupalLogin($this->user);
+    
+      $title = $this->randomString();
+      $body = $this->randomString(32);
+      $edit = [
+        'Title' => $title,
+        'Body' => $body,
+      ];
+      $this->drupalPostForm('node/add/page', $edit, t('Save'));
+    }

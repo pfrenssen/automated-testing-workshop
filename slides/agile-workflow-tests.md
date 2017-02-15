@@ -1,3 +1,3 @@
-<h2>Agile workflow: tests</h2>
-          <p><img src="workflow-tests.png"></p>
-        
+## Agile workflow: tests
+
+<img src="workflow-tests.png">

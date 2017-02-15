@@ -1,10 +1,8 @@
-<h3>Checking form values</h3>
-          <pre><code class="hljs">
-  function testNodeCreate() {
-    ...
+### Checking form values
 
-    $this-&gt;assertSession()-&gt;fieldValueEquals('Title', $title);
-    $this-&gt;assertSession()-&gt;fieldValueEquals('Body', $body);
-  }
-          </code></pre>
-        
+    function testNodeCreate() {
+      ...
+    
+      $this->assertSession()->fieldValueEquals('Title', $title);
+      $this->assertSession()->fieldValueEquals('Body', $body);
+    }

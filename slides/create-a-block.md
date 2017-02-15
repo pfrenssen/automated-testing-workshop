@@ -1,19 +1,17 @@
-<h3>Create a block</h3>
-          <pre><code class="hljs">
-    class KernelTest extends KernelTestBase {
+### Create a block
 
+    class KernelTest extends KernelTestBase {
+    
       public function testBlockCreation() {
         // ...
-
+    
         // Create a block.
-        $info = $this-&gt;randomMachineName();
+        $info = $this->randomMachineName();
         $block = BlockContent::create([
-          'info' =&gt; $info,
-          'type' =&gt; $bundle,
+          'info' => $info,
+          'type' => $bundle,
         ]);
-        $block-&gt;save();
+        $block->save();
       }
-
+    
     }
-          </code></pre>
-        
