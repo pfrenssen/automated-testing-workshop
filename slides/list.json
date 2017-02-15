@@ -113,31 +113,40 @@
         "example-javascript-test.md"
     ],
     "behat-section.md",
-    "what-is-behat.md",
-    "what-is-bdd.md",
-    "better-communication.md",
-    "better-planning.md",
-    "better-documentation.md",
-    "improve-software-quality.md",
-    "gherkin.md",
-    "gherkin-aspects.md",
-    "gherkin-example.md",
-    "gherkin-structure.md",
-    "scenario-outlines.md",
-    "tables.md",
-    "example-test-i.md",
-    "example-test-ii.md",
-    "run-example-tests.md",
-    "built-in-step-definitions.md",
-    "bad-built-in-stuff.md",
-    "use-domain-specific-language.md",
-    "features-newsroom-feature.md",
-    "run-the-test-scenario.md",
-    "defining-your-own-steps.md",
-    "missing-steps.md",
-    "add-missing-steps-automatically.md",
-    "implementation.md",
+    [
+        "what-is-behat.md",
+        "what-is-bdd.md",
+        "better-communication.md",
+        "better-planning.md",
+        "better-documentation.md",
+        "improve-software-quality.md"
+    ],
+    [
+        "gherkin.md",
+        "gherkin-aspects.md",
+        "gherkin-example.md",
+        "gherkin-structure.md",
+        "scenario-outlines.md",
+        "tables.md"
+    ],
+    [
+        "example-test-i.md",
+        "example-test-ii.md",
+        "run-example-tests.md"
+    ],
+    [
+        "built-in-step-definitions.md",
+        "bad-built-in-stuff.md",
+        "use-domain-specific-language.md"
+    ],
+    [
+        "features-newsroom-feature.md",
+        "run-the-test-scenario.md",
+        "defining-your-own-steps.md",
+        "missing-steps.md",
+        "add-missing-steps-automatically.md",
+        "implementation.md"
+    ],
     "selenium.md",
-    "questions.md",
-    "build-development-environment.md"
+    "questions.md"
 ]
