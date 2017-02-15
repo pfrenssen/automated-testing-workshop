@@ -1,7 +1,9 @@
-<h2>Install development environment</h2>
-          <pre class="hljs"><div>
-         $ ./vendor/bin/phing install-dev
-          </div></pre>
-          <p>Installs Drupal, creates test users</p>
-          <p>Drupal is up and running now!</p>
-        
+## Install development environment
+
+    $ ./vendor/bin/phing install-dev
+    
+* Installs Drupal
+* Enables development modules
+* Creates test users
+* Drupal is up and running now!
+* Verify that it works in the browser

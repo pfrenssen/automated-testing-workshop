@@ -1,15 +1,15 @@
-<h2>Configure your dev environment</h2>
-          <p>build.properties.local</p>
-          <pre class="hljs"><div>
+## Configure your dev environment
+
+build.properties.local
+
     # Database settings.
-    drupal.db.name = vrt-demo
+    drupal.db.name = myproject
     drupal.db.user = root
     drupal.db.password = hunter2
 
     # The base URL. Used for functional tests.
-    drupal.base_url = http://vrt-demo.local
-          </div></pre>
-          <p>Create the 'build.properties.local' file</p>
-          <p>Contains personal settings for local dev - don't commit!</p>
-          <p>Check 'build.properties.dist' for more options</p>
-        
+    drupal.base_url = http://drupal-project.local
+    
+* Create the 'build.properties.local' file
+* Contains personal settings for local dev - don't commit!
+* Check 'build.properties.dist' for more options
