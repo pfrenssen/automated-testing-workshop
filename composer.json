@@ -1,0 +1,13 @@
+{
+    "name": "pfrenssen/automated-testing-workshop",
+    "require": {
+        "symfony/dom-crawler": "^3.2",
+        "symfony/css-selector": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Pieter Frenssen",
+            "email": "pieter@frenssen.be"
+        }
+    ]
+}
