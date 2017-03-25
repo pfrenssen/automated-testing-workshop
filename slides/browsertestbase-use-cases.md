@@ -4,4 +4,5 @@
 
 * User interaction
 * Forms
-* Complex integrations
+
+Any test that requires to validate rendered pages

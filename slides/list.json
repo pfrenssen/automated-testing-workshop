@@ -32,6 +32,7 @@
         "some-definitions.md"
     ],
     [
+        "using-tests-for-client-projects.md",
         "agile-workflow.md",
         "agile-workflow-tests.md",
         "agile-workflow-branches.md",
