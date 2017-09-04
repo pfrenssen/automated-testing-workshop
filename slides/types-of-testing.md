@@ -1,4 +1,4 @@
-## Types of testing
+### Types of testing
 
 <img src="types-of-testing.png" width="45%" />
 
