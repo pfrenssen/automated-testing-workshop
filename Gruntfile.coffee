@@ -88,7 +88,7 @@ module.exports = (grunt) ->
         ->
             indexTemplate = grunt.file.read 'templates/_index.html'
             sectionTemplate = grunt.file.read 'templates/_section.html'
-            slides = grunt.file.readJSON 'slides/list.json'
+            slides = grunt.file.readYAML 'slides/list.yml'
 
             html = grunt.template.process indexTemplate, data:
                 slides:
