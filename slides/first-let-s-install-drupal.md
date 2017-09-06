@@ -1,3 +1,3 @@
-##  First let&#39;s install Drupal
+##  Let&#39;s install Drupal 8
 
-... using a Composer based workflow
+using a Composer based workflow

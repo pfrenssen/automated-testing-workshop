@@ -1,37 +1,37 @@
 ---
 - - intro.md
-  - about-me.md
-#- - first-let-s-install-drupal.md
-#  - download-composer.md
-#  - install-composer-globally.md
-#  - check-if-composer-works.md
-#- - drupal-project.md
-#  - pfrenssen-drupal-project.md
-#  - fork-it-on-github.md
-#  - activate-project-on-travis-ci.md
-#  - download-your-fork.md
-#  - configure-the-project.md
-#  - configure-your-dev-environment.md
-#  - build-development-environment.md
-#  - install-development-environment.md
-#  - push-your-changes.md
-#  - check-ci.md
-- a-little-bit-of-theory.md
-- testing.md
-- types-of-testing.md
-- - goals-of-testing.md
-  - different-types-of-tests.md
-  - some-definitions.md
+#  - about-me.md
+- - first-let-s-install-drupal.md
+  - download-composer.md
+  - install-composer-globally.md
+  - check-if-composer-works.md
+- - drupal-project.md
+  - pfrenssen-drupal-project.md
+  - fork-it-on-github.md
+  - activate-project-on-travis-ci.md
+  - download-your-fork.md
+  - configure-the-project.md
+  - configure-your-dev-environment.md
+  - build-development-environment.md
+  - install-development-environment.md
+  - push-your-changes.md
+  - check-ci.md
+#- a-little-bit-of-theory.md
+#- testing.md
+#- types-of-testing.md
+#- - goals-of-testing.md
+#  - different-types-of-tests.md
+#  - some-definitions.md
 #- - using-tests-for-client-projects.md
-- - daily-workflow.md
-  - agile-workflow.md
-  - agile-workflow-tests.md
-  - agile-workflow-branches.md
-  - agile-workflow-tips.md
-  - definition-of-done.md
-  - doing-effective-qa.md
-  - continuous-integration.md
-  - update-workflow.md
+#- - daily-workflow.md
+#  - agile-workflow.md
+#  - agile-workflow-tests.md
+#  - agile-workflow-branches.md
+#  - agile-workflow-tips.md
+#  - definition-of-done.md
+#  - doing-effective-qa.md
+#  - continuous-integration.md
+#  - update-workflow.md
 #- - history-of-testing-in-drupal.md
 #  - shortcomings.md
 #  - drupal-8-fix-all-the-things.md
