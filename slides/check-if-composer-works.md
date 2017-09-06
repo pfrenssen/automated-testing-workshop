@@ -2,5 +2,5 @@
 
 ```
 $ composer --version
-Composer version 1.3.2 2017-01-27 18:23:41
+Composer version 1.5.1 2017-08-09 16:07:22
 ```
