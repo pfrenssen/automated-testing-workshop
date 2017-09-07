@@ -1,22 +1,22 @@
 ---
 - - intro.md
 #  - about-me.md
-- - first-let-s-install-drupal.md
-  - download-composer.md
-  - install-composer-globally.md
-  - check-if-composer-works.md
-- - drupal-project.md
-  - pfrenssen-drupal-project.md
-  - fork-it-on-github.md
-  - activate-project-on-travis-ci.md
-  - download-your-fork.md
-  - configure-the-project.md
-  - configure-your-dev-environment.md
-  - build-development-environment.md
-  - install-development-environment.md
-  - push-your-changes.md
-  - check-ci.md
-  - test-results.md
+#- - first-let-s-install-drupal.md
+#  - download-composer.md
+#  - install-composer-globally.md
+#  - check-if-composer-works.md
+#- - drupal-project.md
+#  - pfrenssen-drupal-project.md
+#  - fork-it-on-github.md
+#  - activate-project-on-travis-ci.md
+#  - download-your-fork.md
+#  - configure-the-project.md
+#  - configure-your-dev-environment.md
+#  - build-development-environment.md
+#  - install-development-environment.md
+#  - push-your-changes.md
+#  - check-ci.md
+#  - test-results.md
 #- a-little-bit-of-theory.md
 #- testing.md
 #- types-of-testing.md
@@ -49,6 +49,7 @@
 #  - browsertestbase-use-cases.md
 #  - javascripttestbase.md
 #  - javascripttestbase-use-cases.md
+- - behat-section.md
 #  - behat.md
 #  - behat-use-cases.md
 #  - where-to-put-the-tests.md
@@ -89,31 +90,30 @@
 #  - a-few-more-test-cases.md
 #- - javascripttestbase-intro.md
 #  - example-javascript-test.md
-#- behat-section.md
-#- - what-is-behat.md
-#  - what-is-bdd.md
-#  - better-communication.md
-#  - better-planning.md
-#  - better-documentation.md
-#  - improve-software-quality.md
-#- - gherkin.md
-#  - gherkin-aspects.md
-#  - gherkin-example.md
-#  - gherkin-structure.md
-#  - scenario-outlines.md
-#  - tables.md
-#- - example-test-i.md
-#  - example-test-ii.md
-#  - run-example-tests.md
-#- - built-in-step-definitions.md
-#  - bad-built-in-stuff.md
-#  - use-domain-specific-language.md
-#- - features-newsroom-feature.md
-#  - run-the-test-scenario.md
-#  - defining-your-own-steps.md
-#  - missing-steps.md
-#  - add-missing-steps-automatically.md
-#  - implementation.md
-#- selenium.md
+  - what-is-behat.md
+  - what-is-bdd.md
+  - better-communication.md
+  - better-planning.md
+  - better-documentation.md
+  - improve-software-quality.md
+- - gherkin.md
+  - gherkin-aspects.md
+  - gherkin-example.md
+  - gherkin-structure.md
+  - scenario-outlines.md
+  - tables.md
+- - example-test-i.md
+  - example-test-ii.md
+  - run-example-tests.md
+- - built-in-step-definitions.md
+  - bad-built-in-stuff.md
+  - use-domain-specific-language.md
+- - features-newsroom-feature.md
+  - run-the-test-scenario.md
+  - defining-your-own-steps.md
+  - missing-steps.md
+  - add-missing-steps-automatically.md
+  - implementation.md
+- selenium.md
 #- questions.md
 #- sponsors.md
