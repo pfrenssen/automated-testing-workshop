@@ -1,3 +1,3 @@
-<h2>What is BDD?</h2>
-          <h3>Bridge between client and development team</h3>
-        
+## What is BDD?
+
+A bridge between client and development team
