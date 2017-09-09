@@ -53,6 +53,10 @@
 #  - behat-use-cases.md
   - where-to-put-the-tests.md
   - test-namespaces.md
+- - lifecycle-of-a-test.md
+  - setup.md
+  - test.md
+  - teardown.md
 - enough-waffling.md
 - - configuring-phpunit.md
   - create-a-test-module.md
