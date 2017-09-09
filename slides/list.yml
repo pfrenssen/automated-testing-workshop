@@ -33,11 +33,12 @@
   - doing-effective-qa.md
   - continuous-integration.md
 - - history-of-testing-in-drupal.md
+  - simpletest-history.md
   - shortcomings.md
   - drupal-8-fix-all-the-things.md
   - simpletest-in-d8.md
   - phpunit-in-d8.md
-- - writing-tests-in-drupal-8.md
+- - drupal-8-test-frameworks.md
   - deprecated-base-classes.md
   - which-test-type-to-use.md
   - unittestcase.md
@@ -48,8 +49,8 @@
   - browsertestbase-use-cases.md
   - javascripttestbase.md
   - javascripttestbase-use-cases.md
-  - behat.md
-  - behat-use-cases.md
+#  - behat.md
+#  - behat-use-cases.md
   - where-to-put-the-tests.md
   - test-namespaces.md
 - enough-waffling.md
