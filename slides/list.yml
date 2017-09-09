@@ -106,12 +106,18 @@
   - example-test-ii.md
 - - installing-behat.md
   - configuring-behat.md
+  - initializing-behat.md
   - run-example-tests.md
 - - writing-tests-using-built-in-step-definitions.md
   - built-in-step-definitions.md
   - bad-built-in-stuff.md
   - use-domain-specific-language.md
-  - exercise-built-in-steps.md
+- - contexts.md
+  - minkcontext.md
+  - drupalcontext.md
+  - drushcontext.md
+  - subcontexts.md
+- - exercise-built-in-steps.md
   - features-newsroom-feature.md
   - implement-the-newsroom.md
   - run-the-test-scenario.md
@@ -120,11 +126,14 @@
   - add-missing-steps-automatically.md
   - implementation.md
   - using-tables.md
-  - comma-separated-arguments.md
+  - horizontal-tables.md
   - aliasing-for-humans.md
+  - the-aliases.md
   - overriding-contexts.md
+  - using-the-overridden-context.md
   - subcontexts-for-modules.md
   - reusing-test-code-with-traits.md
+  - using-the-trait.md
 - - selenium.md
   - installing-selenium.md
   - configuring-selenium.md
