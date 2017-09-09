@@ -54,8 +54,10 @@
   - where-to-put-the-tests.md
   - test-namespaces.md
 - enough-waffling.md
-- - create-a-test-module.md
+- - configuring-phpunit.md
+  - create-a-test-module.md
   - the-module-info-file.md
+- - testing-user-interaction.md
   - browsertestbase-example.md
   - run-the-test.md
   - inspect-test-output.md
@@ -67,6 +69,10 @@
   - debugging-tips.md
   - navigating.md
   - checking-form-values.md
+- - javascripttestbase-intro.md
+  - install-phantomjs.md
+  - example-javascript-test.md
+  - waiting-for-stuff-to-happen.md
 - - kerneltestbase-example.md
   - create-a-block-type.md
   - eek-a-failure.md
@@ -78,6 +84,7 @@
   - add-data-provider.md
 - - run-tests-with-code-coverage.md
   - run-coverage-tests-in-phpstorm.md
+- - using-test-traits.md
 - - mocking.md
   - testing-user-authentication.md
   - the-code-we-re-going-to-test.md
@@ -87,8 +94,6 @@
   - setting-more-expectations.md
   - providing-test-cases.md
   - a-few-more-test-cases.md
-- - javascripttestbase-intro.md
-  - example-javascript-test.md
 - behat-section.md
 - - what-is-behat.md
   - what-is-bdd.md

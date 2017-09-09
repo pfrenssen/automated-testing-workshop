@@ -1,6 +1,5 @@
-<h3>JavascriptTestBase</h3>
-          <ul>
-<li>Drupal 8.1.x</li>
-            <li>PhantomJS</li>
-            <li>See core/tests/README.md</li>
-          </ul>
+### JavascriptTestBase
+
+* Introduced in Drupal 8.1.0
+* Requires PhantomJS
+* See core/tests/README.md
