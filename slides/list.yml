@@ -104,16 +104,35 @@
   - tables.md
 - - example-test-i.md
   - example-test-ii.md
+- - installing-behat.md
+  - configuring-behat.md
   - run-example-tests.md
-- - built-in-step-definitions.md
+- - writing-tests-using-built-in-step-definitions.md
+  - built-in-step-definitions.md
   - bad-built-in-stuff.md
   - use-domain-specific-language.md
-- - features-newsroom-feature.md
+  - exercise-built-in-steps.md
+  - features-newsroom-feature.md
+  - implement-the-newsroom.md
   - run-the-test-scenario.md
-  - defining-your-own-steps.md
+- - defining-your-own-steps.md
   - missing-steps.md
   - add-missing-steps-automatically.md
   - implementation.md
-- selenium.md
+  - using-tables.md
+  - comma-separated-arguments.md
+  - aliasing-for-humans.md
+  - overriding-contexts.md
+  - subcontexts-for-modules.md
+  - reusing-test-code-with-traits.md
+- - selenium.md
+  - installing-selenium.md
+  - configuring-selenium.md
+  - running-tests-in-the-browser.md
+  - testing-javascript.md
+- - hooking-into-the-test-process.md
+  - overview-of-hooks-in-behat.md
+  - example-hook-implementation.md
+- - debugging-behat.md
 #- questions.md
 #- sponsors.md
