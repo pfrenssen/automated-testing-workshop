@@ -138,10 +138,11 @@
   - installing-selenium.md
   - configuring-selenium.md
   - running-tests-in-the-browser.md
-  - testing-javascript.md
+  - javascript-testing-exercise.md
+  - writing-steps-that-work-with-without-javascript.md
+  - enter-text-in-wysiwyg.md
 - - hooking-into-the-test-process.md
   - overview-of-hooks-in-behat.md
-  - example-hook-implementation.md
 - - debugging-behat.md
 #- questions.md
 #- sponsors.md
