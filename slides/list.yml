@@ -73,10 +73,13 @@
   - debugging-tips.md
   - navigating.md
   - checking-form-values.md
+- - using-test-traits.md
 - - javascripttestbase-intro.md
   - install-phantomjs.md
+  - run-phantomjs.md
   - example-javascript-test.md
-  - waiting-for-stuff-to-happend.md
+  - waiting-for-stuff-to-happen.md
+  - exercise-test-the-wysiwyg.md
 - - kerneltestbase-example.md
   - create-a-block-type.md
   - eek-a-failure.md
@@ -86,9 +89,10 @@
 - - unittestcase-example.md
   - test-isvalid.md
   - add-data-provider.md
-- - run-tests-with-code-coverage.md
+  - exercise-negative-test-case.md
+- - advanced-topics.md
+  - run-tests-with-code-coverage.md
   - run-coverage-tests-in-phpstorm.md
-- - using-test-traits.md
 - - mocking.md
   - testing-user-authentication.md
   - the-code-we-re-going-to-test.md
