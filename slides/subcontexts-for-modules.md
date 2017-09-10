@@ -1,5 +1,7 @@
 ## Subcontexts for modules
 
+`mymodule.behat.inc`
+
 ```
 class NewsRoomSubContext extends DrupalSubContextBase {
 
@@ -8,7 +10,7 @@ class NewsRoomSubContext extends DrupalSubContextBase {
    */
   public function givenNewsArticles(TableNode $news_table) {
     // Put module specific steps in "subcontexts".
- }
+  }
 
 }
 ```
