@@ -12,6 +12,7 @@
  */
 public function givenNewsArticle(TableNode $news_table) {
   $values = $news_table->getRowsHash();
+  $values['type'] = 'news';
   Node::create($values)->save();
 }
 ```
