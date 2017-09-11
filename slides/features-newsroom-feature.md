@@ -1,11 +1,13 @@
 ### features/newsroom.feature
 
+
+```
     @api
     Scenario: Anonymous user can see the news overview
-      Given "News article" content:
-      | title     | body                |
-      | Article 1 | The first article.  |
-      | Article 2 | The second article. |
+      Given "news" content:
+        | title     | body                |
+        | Article 1 | The first article.  |
+        | Article 2 | The second article. |
     
       Given I am not logged in
       When I visit "news"
@@ -14,3 +16,4 @@
       And I should see the text "The first article."
       And I should see the link "Article 2"
       And I should see the text "The second article."
+```
