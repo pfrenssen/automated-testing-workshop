@@ -1,6 +1,6 @@
 ### Submitting forms
 
-    function testNodeCreate() {
+    public function testNodeCreate() {
       $this->drupalLogin($this->user);
     
       $title = $this->randomString();
