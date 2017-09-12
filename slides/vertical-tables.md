@@ -1,4 +1,4 @@
-## Horizontal tables
+## Vertical tables
 
 ```
 /**
