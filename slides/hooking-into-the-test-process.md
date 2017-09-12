@@ -2,18 +2,6 @@
 
 ```
 /**
- * @var \Drupal\node\NodeInterface[]
- */
-protected $nodes = [];
-
-public function givenNewsArticle(TableNode $news_table) {
-  // ...
-  $node = Node::create($values);
-  $node->save();
-  $this->nodes[] = $node;
-}
-
-/**
  * @AfterScenario
  */
 protected function cleanupNodes() {
