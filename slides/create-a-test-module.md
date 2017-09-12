@@ -6,5 +6,6 @@
    $ mkdir -p tests/src/Kernel
    $ mkdir -p tests/src/Unit
    $ mkdir -p tests/src/Functional
+   $ mkdir -p tests/src/FunctionalJavascript
           </code></pre>
         
