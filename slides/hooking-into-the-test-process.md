@@ -2,10 +2,13 @@
 
 ```
 /**
- * @Given the following news article:
+ * @var \Drupal\node\NodeInterface[]
  */
+protected $nodes = [];
+
 public function givenNewsArticle(TableNode $news_table) {
-  $node = Node::create($news_table->getRowsHash());
+  // ...
+  $node = Node::create($values);
   $node->save();
   $this->nodes[] = $node;
 }
