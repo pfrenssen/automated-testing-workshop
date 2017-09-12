@@ -15,7 +15,7 @@
         // Missing password, should return FALSE.
         [
           1,
-          'Donald Trump',
+          'Majken Ljunggren',
           '',
           'hunter2',
           FALSE,
