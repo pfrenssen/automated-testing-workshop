@@ -152,6 +152,7 @@
   - subcontexts-for-modules.md
   - reusing-test-code-with-traits.md
   - using-the-trait.md
+  - some-example-traits.md
 - - selenium.md
   - installing-selenium.md
   - configuring-selenium.md
